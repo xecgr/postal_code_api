@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+##sublime
+postal_code.sublime-project
+postal_code.sublime-workspace
+
