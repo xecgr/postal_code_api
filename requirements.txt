@@ -1,7 +1,7 @@
+-e git+https://github.com/xecgr/normalizr.git#egg=normalizr
 Django==1.10.2
 django-extensions==1.7.4
 gunicorn==19.6.0
-normalizr==0.1.9
 requests==2.11.1
 six==1.10.0
 Unidecode==0.4.19
